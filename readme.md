@@ -16,6 +16,7 @@ Jump & Bend (Aketh Xperts)
 Οι αισθητήρες υπερύθρων έχουν 2 “μάτια”. Το ένα στέλνει έναν παλμό και το άλλο το λαμβάνει καταγράφοντας τον χρόνο αυτής της διαδικασίας. Με τον κατάλληλο τύπο αυτός ο χρόνος μετατρέπεται σε απόσταση σε cm.
 Για τη στήριξη των αισθητήρων και τη οθόνης LCD στην αφίσα, δημιουργήσαμε δικές μας βάσεις, που τις σχεδιάσαμε στο Tinkercad και εκτυπώσαμε στον 3d εκτυπωτή.
  
+ 
 **English:**
 Jump & Bend (Aketh Xperts) The main purpose of the project was to motivate young and old to work out at home, without having to leave it, especially now in the COVID-19 season. Of course this does not limit the use of this application indoors but can also be used outdoors. Our idea was to create an interactive poster, where people could enjoy sports, playing a game where they jump or crouch where an LED shows them, exercising different muscles of their body. Each time they approach the lit LED, the adjacent infrared sensor detects that we are approaching it and this turns off the LED with an audible signal giving a point. The total time of the game is 2 minutes. The remaining time will be displayed on the screen in reverse along with the points. Each player's goal is to break his personal record every time. One button allows the game to restart. It is a cheap (€ 90) and beautiful construction that anyone can play with at home.
 
