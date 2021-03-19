@@ -1,4 +1,3 @@
-
 #define echoPin1 A0
 #define echoPin2 A1
 #define echoPin3 A2
